@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Admin Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png", Join Telegram: t.me/aftaahi_iptv
-https://t.me/aftaahi_iptv
-#EXTINF:-1 group-title="Admin Info" tvg-logo="https://i.ibb.co/hRvpjD8/telegram-logo.png", Admin : Aftab Uddin
-https://t.me/aftaahi
-#EXTINF:-1 tvg-name="Nigeria Vs Zimbabwe [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NIG-vs-ZIM_fc-web-(3).jpg" group-title="Live Event",Nigeria Vs Zimbabwe [LIVE]
-https://bd-mc-fblive.fancode.com/mumbai/142666_english_hls_ab1b54a06f48070_1ta-di_h264/1080p.m3u8
-#EXTINF:-1 tvg-name="Court Suzanne Lenglen [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Live Event",Court Suzanne Lenglen [LIVE]
-https://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/hdntl=exp=1779905531~acl=%2f*~id=09e397c4-cbe3-4512-ba54-430bd1ef778d~data=hdntl~hmac=5009bccbba8fef9fa9610eb73d7aa08b1288c1d2cd0159d10cd8b8c8c63f31a1/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAD7MxdqAAAAAMbQTHInnO4ERqwTTrGe0vobhia7DB0xokpS%2fDQq3exm29N8svrip38uLNaMXL%2fFIZ91gAa%2fAgKK&aka_media_format_type=hls
-#EXTINF:-1 tvg-name="Court Simonne Mathieu [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Live Event",Court Simonne Mathieu [LIVE]
-https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/hdntl=exp=1779905535~acl=%2f*~id=9b7eaf1a-b63f-4406-a64b-581c79bd4564~data=hdntl~hmac=032af5c82fc548627c66bcde5b8fdfd1b64cc5ab5217b08fd7b86dfaa40ee1b6/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAD%2fMxdqAAAAAM8IWOLS+v2bUPiuzfNLu7sliUOnsTkBHlivNHH0ULFynwO5GLUOXiBgXaJGxcT0cTUuKdqhsNAh&aka_media_format_type=hls
-#EXTINF:-1 tvg-name="J. Sinner Vs C. Tabur [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Jannik-Sinner-vs-Clement-Tabur_FC-WEB.jpg" group-title="Live Event",J. Sinner Vs C. Tabur [LIVE]
-https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/hdntl=exp=1779905542~acl=%2f*~id=29ec27de-d182-4f0b-b97d-a59063a8db54~data=hdntl~hmac=9d074fb333510419a4113b34f3e45a1198958a20d03280834b9fb1441a989d58/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAAGNBdqAAAAAKc0cHp7Ft4MhgmGqL%2f0dBOJXf6fOz79Yk9qcfVRU8pZlaBaQnVicrtGyDXGD4NIdSnhEylvs1tb&aka_media_format_type=hls
-#EXTINF:-1 tvg-name="Court Philippe Chatrier [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Jannik-Sinner-vs-Clement-Tabur_FC-WEB.jpg" group-title="Live Event",Court Philippe Chatrier [LIVE]
-https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/hdntl=exp=1779905554~acl=%2f*~id=1e5c04d8-4a65-4609-a7ec-2f019731256d~data=hdntl~hmac=bb04552bcee8694c924c1b6668e1d0af0e427a02796351637074f1a8a9c6cd57/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAASNBdqAAAAAM4ih7kZJE3WvDuAOAOsiNQRj730848JLmsSJQa6gEkNS5GwuIQcpzNXfzp0gH3km7a1MmoD8U23&aka_media_format_type=hls
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/8.png" group-title="Bangla", Deepto TV
 Https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/49.png" group-title="Bangla", ATN News
